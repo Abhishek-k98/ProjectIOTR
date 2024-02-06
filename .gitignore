@@ -1,0 +1,11 @@
+# Outer one
+package-lock.json
+node_modules
+
+#backend
+/backend/node_modules
+/backend/package-lock.json
+
+#frontend
+/audio-player-app/node_modules
+/audio-player-app/package-lock.json
